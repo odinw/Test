@@ -9,6 +9,6 @@ namespace WebApi_1
     {
         Candy,
         Cookie,
-        Cake
+        Cake_v2
     }
 }
